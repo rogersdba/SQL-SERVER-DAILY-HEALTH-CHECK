@@ -13,8 +13,8 @@ SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
 8. Check Sql Server Luns free space
 
 SCRIPT 2: Step2_Daily_Sql_Health_Check_Insert
-1. Insert the current day health check records into the tables. You can run this job manually or add the script to a sql jobs. 
-2. The script also delete records that older than 14 days. You can change the days
+1. Insert the current day health check records into the health check tables. You can run this job manually or add the script to a sql jobs. 
+2. The script also delete records that older than 14 days. You can change the delete records date
 
 SCRIPT 3: Step3_Daily_Sql_Health_Check_Job
 1. Create a Sql Server job that execute script 2.
