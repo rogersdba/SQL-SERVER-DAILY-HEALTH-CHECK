@@ -10,7 +10,7 @@ SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
 5. Check Sql Server Jobs
 6. Check the current Sql Server Login Count
 7. Check the current sql server databases Read & Write 
-8. Check Sql Server Luns free space
+8. Check the Sql Server  luns free space
 
 SCRIPT 2: Step2_Daily_Sql_Health_Check_Insert
 1. Insert the current day health check records into the health check tables. You can run this job manually or add the script to a sql jobs. 
