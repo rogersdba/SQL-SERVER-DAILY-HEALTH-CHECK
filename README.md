@@ -14,9 +14,10 @@ SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
 
 SCRIPT 2: Step2_Daily_Sql_Health_Check_Insert
 1. Insert the current day health check records into the health check tables. You can run this job manually or add the script to a sql jobs. 
-2. The script also delete records that older than 14 days. You can change the delete records date
+2. The script also delete records that are older than 14 days. You can change the delete records date.
 
 SCRIPT 3: Step3_Daily_Sql_Health_Check_Job
-1. Create a Sql Server job that execute script 2.
+1. Create a Sql Server job that execute script 2.(Optional)
 
-SCRIPT 4: Run select statements to view the daily sql server health check records.
+SCRIPT 4: Step4_QUERY_DAILY_HEALTH_CHECK_TABLES 
+1. Run select statements to view the daily sql server health check records.
