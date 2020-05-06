@@ -1,5 +1,5 @@
 # SQL-SERVER-DAILY-HEALTH-CHECK
-Are you a Senior Sql Server DBA or novice looking for a simple Daily Sql Server Health Check?   The scripts below check some of the items as a SQLDBA for over 15 years I check on a daily basis.
+Are you a Senior Sql Server DBA or novice looking for a simple Daily Sql Server Health Check?   As a Senior dba for over 15 years the scripts below check some of items I check on a daily basis. 
 
 Perform a Daily Sql Server Health Check on your Sql Server 2012 version and above.
 The scripts will create the following tables and items.
