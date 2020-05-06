@@ -6,7 +6,7 @@ SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
 1. Verify your Sql Server services and agents are running
 2. Check which Databases are online and offline
 3. Check Always-on High Availability AG Health
-4. Verify current day Database Backups
+4. Verify the current day Database Backups
 5. Check Sql Server Jobs
 6. Check the current Sql Server Login Count
 7. Check the current sql server databases Read & Write 
