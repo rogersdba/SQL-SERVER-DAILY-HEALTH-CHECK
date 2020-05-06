@@ -1,6 +1,6 @@
 # SQL-SERVER-DAILY-HEALTH-CHECK
-Perform a Daily Sql Server Health Check on your Sql Server 2012 version and above
-The script will create the following tables and items.
+Perform a Daily Sql Server Health Check on your Sql Server 2012 version and above.
+The scripts will create the following tables and items.
 
 SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
 1. Check Sql Server services and agents
