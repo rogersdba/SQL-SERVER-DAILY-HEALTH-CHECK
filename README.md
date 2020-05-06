@@ -3,7 +3,7 @@ Perform a Daily Sql Server Health Check on your Sql Server 2012 version and abov
 The scripts will create the following tables and items.
 
 SCRIPT 1:  Step1_Daily_Sql_Health_Check_Create
-1. Check Sql Server services and agents
+1. Verify your Sql Server services and agents are running
 2. Check which Databases are online and offline
 3. Check AlwaysOn High Avaliability AG Health
 4. Verify current day Database Backups
