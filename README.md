@@ -19,4 +19,4 @@ SCRIPT 2: Step2_Daily_Sql_Health_Check_Insert
 SCRIPT 3: Step3_Daily_Sql_Health_Check_Job
 1. Create a Sql Server job that execute script 2.
 
-SCRIPT 4: Run a select statment to view the daily sql server health check records.
+SCRIPT 4: Run select statements to view the daily sql server health check records.
